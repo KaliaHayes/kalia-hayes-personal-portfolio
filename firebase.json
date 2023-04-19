@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/kalia-hayes-personal-portfolio",
     "ignore": [
       "firebase.json",
       "**/.*",
